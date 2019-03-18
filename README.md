@@ -1,2 +1,0 @@
-# TiendaMascotasGitHub
-Prueba Tienda mascota
